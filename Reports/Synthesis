@@ -1,1 +1,14 @@
+Synthesis:
+It is the process of converting RTL Verilog code of your RISC-V design into a gate-level netlist and it maps your digital logic into standard cells from the Sky130 PDK.
 
+Tools Used:
+Yosys - reads RTL, optimizes design
+ABC - performs technology mapping
+
+- After running a successful synthesis, some reports will be generated. Those generated reports will be displayed in the image synthesis_1.png 
+
+Synthesis Summary:
+Design Name: RISC-V
+Total cells: 14876
+tns - 759.46
+wns - 24.89
