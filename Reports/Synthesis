@@ -5,7 +5,7 @@ Tools Used:
 Yosys - reads RTL, optimizes design
 ABC - performs technology mapping
 
-- After running a successful synthesis, some reports will be generated. Those generated reports will be displayed in the image synthesis_1.png 
+- After running a successful synthesis, some reports will be generated. Those generated reports will be displayed in the image synthesis_1.jpg 
 
 Synthesis Summary:
 Design Name: RISC-V
